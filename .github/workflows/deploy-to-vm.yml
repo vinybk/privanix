@@ -56,8 +56,6 @@ jobs:
           ssh -i ~/.ssh/id_rsa $DEPLOY_USER@$DEPLOY_HOST  << EOF 
             cd $REPO_PATH
             git pull origin main
-            npm install
-            npm run build
             sudo /bin/systemctl stop nginx && sudo /bin/systemctl start nginx
           EOF
 
