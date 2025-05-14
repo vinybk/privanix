@@ -2,18 +2,18 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Sobre"
+url = "/sobre"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Sovereinia"
+url = "https://sovereinia.org/"
 weight = 3
 
 [[main]]

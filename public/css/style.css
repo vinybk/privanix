@@ -3739,24 +3739,24 @@ input#nav-toggle:checked ~ #nav-menu {
     --text-base-sm: 12.8px;
     --font-primary: Heebo, sans-serif;
     --font-secondary: Signika, sans-serif;
-    --color-primary: #121212;
-    --color-body: #fff;
-    --color-border: #eaeaea;
-    --color-light: #f6f6f6;
-    --color-dark: #040404;
-    --color-text: #444444;
-    --color-text-dark: #040404;
-    --color-text-light: #717171;
+    --color-primary: #3B82F6;
+    --color-body: #F8FAFC;
+    --color-border: #E2E8F0;
+    --color-light: #F1F5F9;
+    --color-dark: #1E293B;
+    --color-text: #1E293B;
+    --color-text-dark: #0F172A;
+    --color-text-light: #64748B;
   }
   .dark {
-    --color-darkmode-primary: #fff;
-    --color-darkmode-body: #1c1c1c;
-    --color-darkmode-border: #3E3E3E;
-    --color-darkmode-light: #222222;
-    --color-darkmode-dark: #fff;
-    --color-darkmode-text: #B4AFB6;
-    --color-darkmode-text-dark: #fff;
-    --color-darkmode-text-light: #B4AFB6;
+    --color-darkmode-primary: #93C5FD;
+    --color-darkmode-body: #111827;
+    --color-darkmode-border: #334155;
+    --color-darkmode-light: #1E293B;
+    --color-darkmode-dark: #F8FAFC;
+    --color-darkmode-text: #E2E8F0;
+    --color-darkmode-text-dark: #FFFFFF;
+    --color-darkmode-text-light: #94A3B8;
   }
 }
 @property --tw-font-weight {
